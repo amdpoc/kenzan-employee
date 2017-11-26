@@ -1,0 +1,83 @@
+[  
+	{
+		"firstName": "Noah",
+        "middleInitial": "L",
+        "lastName": "Davis",
+        "dateOfBirth": "1975-11-24",
+        "dateOfEmployment": "2009-12-19",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Olivia",
+        "middleInitial": "R",
+        "lastName": "Hall",
+        "dateOfBirth": "1965-05-14",
+        "dateOfEmployment": "2003-07-14",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Jacob",
+        "middleInitial": "C",
+        "lastName": "Lewinski",
+        "dateOfBirth": "1981-05-22",
+        "dateOfEmployment": "2015-03-13",
+        "status": "INACTIVE"
+    },
+	{
+		"firstName": "Stephen",
+        "middleInitial": "P",
+        "lastName": "Morgan",
+        "dateOfBirth": "1978-12-12",
+        "dateOfEmployment": "2008-02-18",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Abigail",
+        "middleInitial": "C",
+        "lastName": "Sandress",
+        "dateOfBirth": "1965-12-05",
+        "dateOfEmployment": "2013-07-12",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Evan",
+        "middleInitial": "B",
+        "lastName": "Webb",
+        "dateOfBirth": "1961-11-01",
+        "dateOfEmployment": "2001-04-12",
+        "status": "INACTIVE"
+    },
+	{
+		"firstName": "Alexander",
+        "middleInitial": "T",
+        "lastName": "Alvarez",
+        "dateOfBirth": "1972-05-02",
+        "dateOfEmployment": "2014-09-14",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Sandeep",
+        "middleInitial": "E",
+        "lastName": "Shah",
+        "dateOfBirth": "1979-01-02",
+        "dateOfEmployment": "2005-02-18",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Connor",
+        "middleInitial": "W",
+        "lastName": "West",
+        "dateOfBirth": "1965-04-21",
+        "dateOfEmployment": "2002-04-12",
+        "status": "ACTIVE"
+    },
+	{
+		"firstName": "Michael",
+        "middleInitial": "R",
+        "lastName": "Black",
+        "dateOfBirth": "1982-12-29",
+        "dateOfEmployment": "2015-06-18",
+        "status": "ACTIVE"
+    }
+	
+]
